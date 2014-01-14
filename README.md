@@ -45,4 +45,4 @@ Hadoop 1.1.2.
 
 ## Acknowledgements
 
-The HFSP project is part of the [BigFoot project](http://www.bigfootproject.eu/)
+The HFSP project is partially funded by the [BigFoot project](http://www.bigfootproject.eu/) and the [mPlane project](http://ict-mplane.eu)
